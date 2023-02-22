@@ -1,4 +1,4 @@
-package practica1patronesdiseno.InterpreterEjercicio9;
+package practica1patronesdiseno.singletonIteratorEjercicio10;
 
 import java.util.Stack;
 
