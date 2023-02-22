@@ -4,19 +4,19 @@ public class ParrillaBife extends BuilderParrilla {
 
     @Override
     public void buildGuarniciones() {
-        this.parrilla.setGuarniciones("Arroz con queso");
+        this.parrilla.setGuarniciones("Papas Fritas");
         
     }
 
     @Override
     public void buildSaborRefresco() {
-        this.parrilla.setSaborRefresco("Fanta guarana");
+        this.parrilla.setSaborRefresco("Coca Cola");
         
     }
 
     @Override
     public void buildTipoCarne() {
-        this.parrilla.setTipoDeCarne("T-bone");
+        this.parrilla.setTipoDeCarne("Bife");
         
     }
     
