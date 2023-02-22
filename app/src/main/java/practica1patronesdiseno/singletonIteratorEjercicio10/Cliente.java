@@ -1,4 +1,4 @@
-package patronesdisenoprimerparcialpractica.ejercicio10IteratorSingleton;
+package practica1patronesdiseno.singletonIteratorEjercicio10;
 
 public class Client {
     public static void main(String[] args) {
